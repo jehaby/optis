@@ -1,0 +1,18 @@
+{
+  "name": "jehaby/optis",
+  "description": "Simple program for small business",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stas Makarov",
+      "email": "s.makarov@zebra-group.ru"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jehaby\\Optis\\": "src/"
+    }
+  }
+
+}
